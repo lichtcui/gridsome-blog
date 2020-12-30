@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-strapi": "^0.2.0",
+    "element-ui": "^2.14.1",
+    "gridsome": "^0.7.0",
+    "strapi": "^3.4.1",
+    "strapi-plugin-graphql": "^3.4.1"
+  }
+}
